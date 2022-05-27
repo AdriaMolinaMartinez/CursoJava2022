@@ -7,6 +7,7 @@ public class Ejercicio3 {
 
 		System.out.println("Tecla de escape\tSignificado");
 		System.out.println("\n\\n          \tsignifica nueva línea");
+		System.out.println("\\             \tse utiliza anular ejecución de la tecla de escape que viene después por ejemplo \\n no haga nueva linea");
 		System.out.println("\\t            \tsignifica un tab de espacio");
 		System.out.println("\\\"           \tes para porner \" (comillas dobles) dentro del texto por ejemplo \"Belencita\" ");
         System.out.println("\\\\           \tse utiliza para escribir la \\ dentro del texto, por ejemplo \\algo\\ ");
